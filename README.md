@@ -6,8 +6,8 @@
 
 1. Clone the project:
     ```sh
-    git clone https://github.com/cfzd/Ultra-Fast-Lane-Detection
-    cd Ultra-Fast-Lane-Detection
+    git clone https://github.com/Sharifff-Abrar/535_Final_Project.git
+    cd 535_Final_Project
     ```
 2. Create a conda virtual environment and activate it:
     ```sh
@@ -77,7 +77,9 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/HanyangZhong/FENet.git
+    ggit clone https://github.com/Sharifff-Abrar/535_Final_Project.git
+    cd 535_Final_Project
+    cd FENet
     ```
 2. Create a conda virtual environment and activate it:
     ```sh
