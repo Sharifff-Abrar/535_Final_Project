@@ -118,3 +118,9 @@
 ## License
 
 This project is licensed under the MIT License.
+
+
+## Citations
+
+- Ultra-Fast-Lane-Detection: [cfzd/Ultra-Fast-Lane-Detection](https://github.com/cfzd/Ultra-Fast-Lane-Detection)
+- FENet: [HanyangZhong/FENet](https://github.com/HanyangZhong/FENet)
