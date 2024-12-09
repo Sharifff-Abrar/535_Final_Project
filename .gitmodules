@@ -1,0 +1,3 @@
+[submodule "Ultra-Fast-Lane-Detection"]
+	path = Ultra-Fast-Lane-Detection
+	url = https://github.com/cfzd/Ultra-Fast-Lane-Detection.git
